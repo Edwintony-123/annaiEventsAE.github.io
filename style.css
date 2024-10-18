@@ -5,7 +5,7 @@
 body {
     font-family: 'Playfair Display', serif;
     color: #333;
-    background-image: url('images/backbanner2.jpg'); /* Replace with your image path */
+    background-image: url('https://res.cloudinary.com/dkz97ns2n/image/upload/v1729254507/backbanner2_wghfse.jpg'); /* Replace with your image path */
     background-size: cover; /* Cover the entire viewport */
     background-repeat: no-repeat; /* Prevent repeating */
     background-attachment: fixed; /* Keep the background fixed during scrolling */
